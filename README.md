@@ -1,4 +1,4 @@
-# -C2PDE
+# C2PDE
 3D Modelling with C2 Continuous PDE Surface Patches
 Abstract: We present a new modelling method to create 3D models.
 First, characteristic cross section curves are generated and approximated by generalized elliptic curves.
